@@ -1,0 +1,10 @@
+name: Uploads
+form: $/robvw/multiversecontentmanager/models/upload/fields.yaml
+modelClass: RobVW\MultiverseContentManager\Models\Upload
+defaultRedirect: robvw/multiversecontentmanager/uploads
+create:
+    redirect: 'robvw/multiversecontentmanager/uploads/update/:id'
+    redirectClose: robvw/multiversecontentmanager/uploads
+update:
+    redirect: robvw/multiversecontentmanager/uploads
+    redirectClose: robvw/multiversecontentmanager/uploads

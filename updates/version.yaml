@@ -1,0 +1,11 @@
+1.0.1:
+    - 'Initialize plugin.'
+1.0.2:
+    - 'Created table robvw_multiversecontentmanager_uploads'
+    - builder_table_create_robvw_multiversecontentmanager_uploads.php
+1.0.3:
+    - 'Updated table robvw_multiversecontentmanager_uploads'
+    - builder_table_update_robvw_multiversecontentmanager_uploads.php
+1.0.4:
+    - 'Updated table robvw_multiversecontentmanager_uploads'
+    - builder_table_update_robvw_multiversecontentmanager_uploads_2.php

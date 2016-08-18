@@ -1,0 +1,27 @@
+columns:
+    id:
+        label: ID
+        type: number
+        searchable: true
+        sortable: true
+    upload_title:
+        label: Title
+        type: text
+        searchable: true
+        sortable: true
+    upload_description:
+        label: Description
+        type: text
+        searchable: true
+        sortable: true
+    upload_path:
+        label: Upload
+        type: partial
+        searchable: true
+        sortable: true
+        path: ~\plugins\robvw\multiversecontentmanager\models\upload\list_thumbnail.htm
+    upload_active:
+        label: Active
+        type: switch
+        searchable: true
+        sortable: true

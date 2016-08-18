@@ -1,0 +1,11 @@
+title: Uploads
+modelClass: RobVW\MultiverseContentManager\Models\Upload
+list: $/robvw/multiversecontentmanager/models/upload/columns.yaml
+recordUrl: 'robvw/multiversecontentmanager/uploads/update/:id'
+noRecordsMessage: 'backend::lang.list.no_records'
+showSetup: true
+showCheckboxes: true
+toolbar:
+    buttons: list_toolbar
+    search:
+        prompt: 'backend::lang.list.search_prompt'

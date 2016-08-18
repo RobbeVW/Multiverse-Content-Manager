@@ -1,0 +1,27 @@
+fields:
+    upload_title:
+        label: Title
+        oc.commentPosition: ''
+        span: auto
+        placeholder: Title
+        type: text
+    upload_path:
+        label: Picture
+        oc.commentPosition: ''
+        mode: image
+        span: auto
+        type: mediafinder
+    upload_description:
+        label: Description
+        size: small
+        oc.commentPosition: ''
+        span: full
+        placeholder: Description
+        type: textarea
+    upload_active:
+        label: Activate
+        span: auto
+        default: 1
+        context:
+            - update
+        type: checkbox

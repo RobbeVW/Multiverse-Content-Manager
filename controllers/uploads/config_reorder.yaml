@@ -1,0 +1,4 @@
+title: Uploads
+modelClass: RobVW\MultiverseContentManager\Models\Upload
+toolbar:
+    buttons: reorder_toolbar

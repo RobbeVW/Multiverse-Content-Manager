@@ -1,0 +1,11 @@
+plugin:
+    name: 'robvw.multiversecontentmanager::lang.plugin.name'
+    description: 'robvw.multiversecontentmanager::lang.plugin.description'
+    author: 'Rob VW'
+    icon: oc-icon-camera-retro
+    homepage: ''
+navigation:
+    mcm-menu-item:
+        label: 'Multiverse Content Management'
+        url: robvw/multiversecontentmanager/uploads
+        icon: icon-pencil
