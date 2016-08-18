@@ -1,6 +1,6 @@
 plugin:
-    name: 'robvw.multiversecontentmanager::lang.plugin.name'
-    description: 'robvw.multiversecontentmanager::lang.plugin.description'
+    name: 'Multiverse Content Manager'
+    description: "A basic content manager which allows you to easily manage the Multiverse theme. \r\nTheme: https://octobercms.com/theme/sliderweb-sliderweb-003-october"
     author: 'Rob VW'
     icon: oc-icon-camera-retro
     homepage: ''
